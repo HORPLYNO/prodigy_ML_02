@@ -19,7 +19,7 @@ You can download the dataset from Kaggle [here](https://www.kaggle.com/datasets/
 
 - **K-Means Clustering**: Implemented to group customers into clusters based on similar characteristics.
 - **Data Preprocessing**: Includes handling missing values, scaling numerical features, and cleaning the dataset.
-- **Cluster Visualization**: Visualized the clusters in 2D and marked the **centroids** to understand the center of each group.
+- **Cluster Visualization**: Visualized the clusters and marked the **centroids** to understand the center of each group.
 
 ## **Cluster Interpretations**
 
